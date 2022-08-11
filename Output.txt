@@ -1,0 +1,9 @@
+"C:\Program Files\Java\jdk-16.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1\lib\idea_rt.jar=56998:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1\bin" -Dfile.encoding=UTF-8 -classpath "D:\Wave 33\Course 3\Sprint 2\c3_s2_pc1_FurniturMart\out\production\c3_s2_pc1_FurniturMart" FurnitureItemImpl
+ Indoor furniture item not applicable for discount
+ Price After discount is : ₹ 0.0
+ Outdoor furniture item applicable for discount
+ Price after discount is : ₹ 1140.0
+ Indoor furniture item not applicable for discount
+ Price After discount is : ₹ 1500.0
+
+Process finished with exit code 0
