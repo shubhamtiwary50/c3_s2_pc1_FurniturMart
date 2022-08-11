@@ -9,3 +9,4 @@ public class FurnitureItemImpl {
         System.out.println(" Price After discount is : ₹ " + obj2.calcDiscount());
     }
 }
+//testing commit
